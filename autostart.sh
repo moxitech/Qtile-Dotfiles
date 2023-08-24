@@ -1,2 +1,3 @@
-numlockx &
-
+numlockx on &
+dunst       &
+telegram-desktop & 
